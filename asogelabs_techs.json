@@ -1,0 +1,9 @@
+{
+  "main":[
+    {
+      "name":"Editmu",
+      "description":"Transforma tus imágenes con el poder de la inteligencia artificial. Crea fotografías profesionales con simples instrucciones de texto, sin necesidad de conocimientos técnicos.",
+      "logo":"https://raw.githubusercontent.com/asogelabs/media/main/Services/Logos/Editmu/logo_01_resized_noBG.png"
+    }
+  ]
+}
